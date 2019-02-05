@@ -1,0 +1,11 @@
+{
+  "name": "npm-test-upload",
+  "version": "1.0.0",
+  "description": "Npm test upload before real upload",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "wchavarria03@gmail.com",
+  "license": "MIT"
+}
